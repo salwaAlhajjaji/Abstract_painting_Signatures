@@ -1,4 +1,4 @@
-# _Generate an Abstract Painting from Signatures_ ## AI Artathon 2.0
+# _Generate an Abstract Painting from Signatures - AI Artathon 2.0_
 
 ## Project General Idea
 
