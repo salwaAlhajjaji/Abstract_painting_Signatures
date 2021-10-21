@@ -59,7 +59,7 @@ for n in range(0, len(onlyfiles)):
 
 
 ## _Sewar Team Members_
-✨Raghad Bajhlan | AI Devloper and Artist
+✨Raghad Bajhlan | AI Devloper and Artist\\
 ✨Salwa Alhajjaji | AI Devloper 
 
 
