@@ -13,7 +13,7 @@ by using the GAN models
 - Colab
 
 ## Development Process
-- Collecte a dataset of signatures
+- Collect a dataset of signatures
 - Removing the signature’s background by using OpenCV library
 - Training the GAN model to generate new signature
 - Using human face as input to Pix2Pix Model which used the trained signature to generate the abstract art painting
