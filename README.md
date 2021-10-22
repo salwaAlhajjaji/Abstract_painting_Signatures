@@ -1,6 +1,8 @@
 # _Generate an Abstract Painting from Signatures - AI Artathon 2.0_
 
 ## Project General Idea
+As explined in figure below we will use a dataset of signatures and the shape of human face to generate an abstract painting of human face
+Using the GAN models
 
 <img width="900" alt="Screen Shot 2021-10-21 at 9 18 39 PM" src="https://user-images.githubusercontent.com/24601296/138340585-1afeb042-5b10-4f4b-891d-10d8ca614dbc.png">
 
